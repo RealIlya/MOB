@@ -38,7 +38,7 @@
         </ul>
     </li>
     <li>
-        <h3>Map:</h3>
+        <h3>Map:(Circle around the house)</h3>
         <ul>
             <li>Filtering</li>
             <li>
