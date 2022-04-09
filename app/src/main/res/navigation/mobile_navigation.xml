@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_main">
+
+    <fragment
+        android:id="@+id/nav_main"
+        android:name="com.example.mob.ui.fragments.MainFragment"
+        android:label="@string/app_name"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_nav_main_to_nav_edit_profile"
+            app:destination="@id/nav_edit_profile"
+            app:enterAnim="@android:anim/slide_in_left"
+            app:exitAnim="@android:anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_edit_profile"
+        android:name="com.example.mob.ui.fragments.forDrawer.EditProfileFragment"
+        android:label="@string/menu_edit_profile"
+        tools:layout="@layout/fragment_edit_profile" />
+
+    <fragment
+        android:id="@+id/nav_notification_and_sound"
+        android:name="com.example.mob.ui.fragments.forDrawer.NotificationAndSoundFragment"
+        android:label="@string/menu_notification_and_sound"
+        tools:layout="@layout/fragment_notification_and_sound" />
+
+    <fragment
+        android:id="@+id/nav_map_features"
+        android:name="com.example.mob.ui.fragments.forDrawer.MapFeaturesFragment"
+        android:label="@string/menu_map_features"
+        tools:layout="@layout/fragment_map_features" />
+
+    <fragment
+        android:id="@+id/nav_language"
+        android:name="com.example.mob.ui.fragments.forDrawer.LanguageFragment"
+        android:label="@string/menu_language"
+        tools:layout="@layout/fragment_language" />
+</navigation>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MOB</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--  nav drawer header  -->
+    <string name="sample_username">Lary Davise</string>
+    <string name="sample_phone_number">+78005553535</string>
+    <string name="sample_avatar_desc">User\'s avatar</string>
+    <string name="sample_nickname">\@user</string>
+
+
+    <!--  nav drawer item titles  -->
+    <string name="menu_edit_profile">Edit Profile</string>
+    <string name="nav_header_item_settings">Settings</string>
+    <string name="menu_notification_and_sound">Notification and Sound</string>
+    <string name="menu_map_features">Map Features</string>
+    <string name="menu_language">Select Language</string>
+
+    <!--  edit profile preferences  -->
+    <string name="preference_summary_phone_number">Tap to change your phone number</string>
+    <string name="preference_summary_nickname">Your username</string>
+    <string name="preference_title_bio">About yourself</string>
+    <string name="preference_summary_bio">Write a few words about yourself</string>
+    <string name="preference_title_home">Your home-points</string>
+    <string name="preference_summary_home">Tap to change your places of residence</string>
+
+</resources>
