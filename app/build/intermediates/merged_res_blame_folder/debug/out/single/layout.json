@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notification_and_sound.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\fragment_notification_and_sound.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_map_features.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\fragment_map_features.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_language.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\fragment_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_edit_profile.xml",
+        "source": "C:\\Users\\Admin\\Desktop\\DON'T DELETE\\inventions\\AndroidStudio\\MOB\\app\\src\\main\\res\\layout\\fragment_edit_profile.xml"
+    }
+]

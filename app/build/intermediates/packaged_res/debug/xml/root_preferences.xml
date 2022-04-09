@@ -1,0 +1,25 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <Preference app:layout="@layout/fragment_edit_profile" />-->
+
+    <Preference
+        app:key="phoneNumber"
+        app:summary="@string/preference_summary_phone_number"
+        app:title="@string/sample_phone_number" />
+
+    <Preference
+        app:key="nickname"
+        app:summary="@string/preference_summary_nickname"
+        app:title="@string/sample_nickname" />
+
+    <Preference
+        app:key="bio"
+        app:summary="@string/preference_summary_bio"
+        app:title="@string/preference_title_bio" />
+
+    <Preference
+        app:key="home-points"
+        app:summary="@string/preference_summary_home"
+        app:title="@string/preference_title_home" />
+
+</PreferenceScreen>
